@@ -1,0 +1,8 @@
+Build my team website using the latest stable source at https://github.com/shahruuz/team-website-template . Fetch the current main branch, read START-HERE.md and README.md, and follow them using the actual code. Preserve the design and interactive features. Create a separate customized copy, show a working preview, and report the source version and commit used.
+
+Organization/project: [YOUR ORGANIZATION AND PROJECT]
+Location: [LOCATION]
+People, roles, bios and credentials: [PASTE YOUR LIST OR ATTACH A FILE]
+Photos/logo: [ATTACH IF AVAILABLE]
+
+Use the current source every time this prompt is run. Leave missing personal details blank. Do not invent credentials or biographies.
